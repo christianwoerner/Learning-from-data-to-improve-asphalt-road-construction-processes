@@ -1,0 +1,21 @@
+DS;DF;UF;IM;V
+Asphalt mixing plant (1);Material mixture;Material quality analysis;Direct Impact;1
+Asphalt mixing plant (1);Mixing timestamp;Logistics analysis;Interdependency;1
+Asphalt mixing plant (1);Mixing temperature;Material quality analysis;Interdependency;1
+Material delivery logistics (2);Weighing timestamp;Logistics analysis;Interdependency;1
+Material delivery logistics (2);Loaded material amount;Logistics analysis;Interdependency;1
+Material delivery logistics (2);Mixing plant departure timestamp;Logistics analysis;Interdependency;1
+Material delivery logistics (2);Site arrival timestamp;Logistics analysis;Interdependency;1
+Material delivery logistics (2);Unload start timestamp;Logistics analysis;Interdependency;1
+Material delivery logistics (2);Unload start location;Logistics analysis;Interdependency;1
+Material delivery logistics (2);Unload end timestamp;Logistics analysis;Interdependency;1
+Material delivery logistics (2);Site departure timestamp;Logistics analysis;Interdependency;1
+Material delivery logistics (2);Mixing plant arrival timestamp;Logistics analysis;Interdependency;1
+Asphalt paver (3);Location;Road geometry;Direct Impact;1
+Asphalt paver (3);Timestamp;Road geometry;Interdependency;1
+Asphalt paver (3);Asphalt temperature;Material quality analysis;Direct Impact;1
+Asphalt paver (3);Asphalt temperature;Material quality analysis;Direct Impact;1
+Compaction rollers (4);Location;Material quality analysis;Direct Impact;1
+Compaction rollers (4);Timestamp;Material quality analysis;Direct Impact;1
+Compaction rollers (4);Amplitude;Material quality analysis;Direct Impact;1
+Compaction rollers (4);Frequency;Material quality analysis;Direct Impact;1
